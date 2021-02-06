@@ -1,0 +1,30 @@
+.. ..,..,.,,...,.,,:,,,.,:,:::,:;i:iii;;ii:;::.,.. .,:ii::::::::,.,..,.........,
+... ,.,.,.,.,.:.,,:::,i,:ii:iiiir;;;r;7rr;ii:,:,:,:,:i;iii;ii,:::.,.......,...,,
+ . ......,...,.,,,,::i:i::iii;i:;;;;;7777;::::,,,i:iii,:::::,, ......,.........,
+. ..,.....,.,,,,:.:,:iiii,;;;ir;r7XX22a2aXX7Xr77X7r;;i:,::,.,,,...............,:
+ . ......,,,,,.,,,,:,ir;;;rSXXXSSaZZZ88888a2XSX2SXXX77;:::,,,,.,.,........,,..::
+.......,:,,,i:::::i:iirSSS7SZaa2SSZa80BBBB0Za22SX7Xr7X7i,,,:,.,,,...,,,.,.,.,,::
+ . ,.,,,.i:iir;;;;r;;i;ZaZXXZZa2XaZ80WW@W@@@BW0aX7rr;r;;i:::,,,,...,,,.,.,.,.,.:
+.  ::,. .:ii;;SXX;:,77;rSSZS222aZZ0880BBBBB00WW8a;i:i;i::,,,::i::,,.,...,,,,:,. 
+ . ii::,...::r722X:iiX7i;7X27SSS2ZZZZ8Z88008ZZaa2;;;ii,.,:,i:ii;;i::,,,,,:,,::.,
+. .,,:i::::::i7rXSXSS;7XX;;rXX22aZaZ8aZZZZXSSraSr;;rXr777i;;;.,:i;i::::::,:,:,:i
+  ,;:i:i:,,ii:,iirXSr7;XX7i:.::..72aa22Z2S777S2Xi;r7rXX7r77;,:::,,.:.,,:::,,::,i
+. :;;;;ii...i.. ,.i;ra277XXr: .;. r;r:i;X7;;77;:::i:;ir;X;: .,, ...   ,::.,:i:,:
+  iri;;;i:..,,..... .;iSX7SaX;@MS  7,  ii. iM2 ,:M07XS;i     . ,:i:.,ii;ii:ii;ii
+  7r;ir;r;r;i,:,..,..  ,;;rrX7WMS:7MZ7WMZaM0MZ7MWMMXMMX   .,:,:...i,:77rrr7rrrr;
+ .SSXX77rrii;:,,,,.,.,...iiii:MM,..MWZB7iMMB BZMW Wa0SZ;iii;i:::,;7r.X777X77777S
+ :Z22X77XX7;;;;;;ii:i:i,..::irMWi  MMMa   0; .XM; ;,  ,.:i;i;;;;77Xr.SXXSX7;7r7a
+ ;S2ZZ2SXSS2X777;rr;;;;r;;:i::  :82MMM8M@iMMi,MM::ir;;;:.7r7rr;r;7XX.a2SXX7XXSXX
+ ...ir088888Z22SX777rrr;i;a:rS:B0:.@MMM.0BBZiWM2;2;.:i;;;SSX77MM@Sa8.X8aaZaaZ; .
+ :,,..;ZSXr7iirSZZa222SX;ZMSMMMMWi 0MMM    ,aMMiXZ;:aW0S,S2S7MMMMZS;  .:,iXZ: iM
+.::,,.... ..,,..7;;:rXSXSXM@0arSSXiXM:.     MMXiMSZMMMMMW8iiaMMM7 .;7XZZaSX; rMM
+ ............,., ..,...,,.SM78:S8Z7X2       MM7aMWMMMMMMMM, 8MMW SMMMM;X2ZZaBMMM
+          ....,.... .... ,XM; .:i:,..     . MMS ZS.;ZS: BMB:@MMZMM .MM      ZMMM
+ , ......:,:,:,:,:,,,,,,.,77 ... .   ..    . :          0M@ 7MMMZ   @Mr i.  BMMM
+,,..,.,.:,,,::,,::,,,,:.,           ,:, , ..  ... .    XMM0  0MM     0MMa   aMMM
+,, .....,,.,.,..., . .         ..,,:,,. , .:.. ..,.,  808MB   .. ...   , .. ,MMM
+:...,...,......   . .   . . ..,,,,:,,.. , ..:,....,. SM MM2     . ...   ..,  BMM
+:,...... . ... .       ......,,,.,.,.,... ...,,,.. . :BMM0  .,.......... ...  MM
+,.... .   .           ..,.,.,,,.,.,...,.. ,.....,.. .      .,,,,,,,.,......   ;M
+ . .         .   . ..,.,.,.,.,.,.,.,.,....,. ..,.,,,.     .....,.,,,,:.......  X
+  . . . . . . ..,.:,,.,.,,,.:.,.,.,.,..., ,,. ..:,:,,.......,.,...,.,,:,:,,.,.. 

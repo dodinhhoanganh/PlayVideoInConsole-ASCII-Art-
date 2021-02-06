@@ -1,0 +1,16 @@
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\bin\Debug\netcoreapp3.1\PlayVideoInConsole.exe
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\bin\Debug\netcoreapp3.1\PlayVideoInConsole.deps.json
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\bin\Debug\netcoreapp3.1\PlayVideoInConsole.runtimeconfig.json
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\bin\Debug\netcoreapp3.1\PlayVideoInConsole.runtimeconfig.dev.json
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\bin\Debug\netcoreapp3.1\PlayVideoInConsole.dll
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\bin\Debug\netcoreapp3.1\PlayVideoInConsole.pdb
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\bin\Debug\netcoreapp3.1\System.Resources.Extensions.dll
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\obj\Debug\netcoreapp3.1\PlayVideoInConsole.csprojAssemblyReference.cache
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\obj\Debug\netcoreapp3.1\PlayVideoInConsole.AssemblyInfoInputs.cache
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\obj\Debug\netcoreapp3.1\PlayVideoInConsole.AssemblyInfo.cs
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\obj\Debug\netcoreapp3.1\PlayVideoInConsole.csproj.CoreCompileInputs.cache
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\obj\Debug\netcoreapp3.1\PlayVideoInConsole.csproj.CopyComplete
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\obj\Debug\netcoreapp3.1\PlayVideoInConsole.dll
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\obj\Debug\netcoreapp3.1\PlayVideoInConsole.pdb
+C:\Users\ngoan\Desktop\lap trinh\phan mem\cross-platform\PlayVideoInConsole\PlayVideoInConsole\obj\Debug\netcoreapp3.1\PlayVideoInConsole.genruntimeconfig.cache

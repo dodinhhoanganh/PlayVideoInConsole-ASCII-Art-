@@ -1,0 +1,30 @@
+.........,.,.....,.......,.,.,:,:::i:;;;iii::i,:,,... .iii,:,:,::....,...,,....,
+......,.,,,:,.,,,,:,:.,,,,:.,,:,iiii;;rr;i;i;::,,.:,:i;;;i;iiiiii,,,,,,.,.,...,,
+...........,.,..,:,:,:,:,:,:::,::ii;ii;ri;:i:,,:::,::;ii:iiii,.:,,,,...........,
+..........,.,,,,,.,,:,i,,,::::::iii;rrXXXr;;riiiiiii;ii:iii:::,.,,,.,.........,,
+.,..........,::,,,,,:iii.:i;rri;;rr7XSaZ2aaZ2XSaa2XX7;iiii:,,::,,,.,.....,.. ..:
+..,.....,,,.,,iii:,:ii;r;;77r;r;X77X2a80BWWWB8080ZZ2SXXri:i::,:,:,,.......:,,.::
+,:., ,,:,::::i:;rr;r:;;;SS:r;XXrrXXZBWW@@@@@WWB0Z80ZSa27::ii:i::,,.,,:,,,,,,::,i
+;ii::,, .,i:i:i:rXXriii7XX7;XSa;7aZ8B0WW@W@WB0088Z2aaZ0aX7;:ii:,,.,,:,:,:,,,,,,,
+:i:i::,,.,,::ii;r7;iii;i;rX7rXXrrXrXS2ZZZ8Z8Z8aX2ZZ27SX7;ii;:i;iii::,,::::::::. 
+:i:.,:i::,,,::;;XS7SZ;:i;;r..   rSXXX72SSSSSXXX7Sa8a2S7i;:7XXXSSX7r;;:,,,,,,:,,.
+i;ii,::i::,ii::;rXX222XSXX7.    iaXXXSS2XX7XXX222Z2SX2ZZZaXXr;i;7S7r:,   . ,,:,i
+;;;;;;;:i,..i. .,::i:X2SXSSXr X8XS27SSSa2X77XX2XaS772X2aZ2i::,:., ,::..   ..::,,
+iri;i;;;i:. .... .   i;XXXXX7 WM7.,Xi  rr: iMZ:;rWZi7a7X;,     ,.ir7i;;r:ii;;;:;
+;rr;;i;;r;;ii,:...... .:;ir;r 0M: iMa;0MZSM0M0;MBMMSMMr  :XZBW@MM@@WB000Z28aa22S
+rX7XXX77r;i;;:,:.,,, .. .;i;i MM:..M@aWS;@MW B8MM,M00raS0MMMMMMMMMMMMMMMWBWWB0ZZ
+7XXS2XXXXX7i;;;;;::,:,,.  ,:, MM:  MMM2   Zi i;Z; i. ;BMMMMMMMMMMMMMMMM@@0@BB880
+a8aZaZa2SSSS77r7;rr;;;;;ii:;. : ,aXMMMZ0M;MMr,,,ir,,X@MMMMMMMMMMMM@M@@WWBa08ZZaB
+i7;,::XSZZZZ822XX77r7rr;r;2;;r;B0i MMMM:0@M8XrX7XXr2MMMMMMMMMMMMM@M@@WWB0rZ8Z22Z
+ ....,..;00Za27S2a2aSSXX;2M2MMMMW; WM@M   ;S7XS2X;XWMMMMMMMMMMMM@MMMWWWW0iXX;,.,
+..,...,,.ii.,.,,iSaX7SZ22XMMaraaXr,aM,:   .ZZZ277iBMMMMMMMMMMMMMMW0a2SX20i......
+.,...,.,.. ....,.....:iii;aM:7B08Zr0i      BZXSa8ZMMMMMMMMMMMMWB0ZX7;i,.,. ,.:,,
+............. . . ...... .XMr,SSX;i7  . .  i::;rXSMMMMMMMMMMMWB8aS7;i,,.. ..,,..
+.:,,,,,,.,.,.. ,,,.,,,.,..XX     ,..     ...,,.  ;WMMMMMMMMM@W082X;i,,.... ,,,,,
+,::,:,,.,,:::,:::,:,:,:,,..         ..    ,....  ;@MMMMMMMMM@W0ZS7;::......,:,:,
+,:,,,:,,,,,:.,,:........ .       ..::: , .,,..., iWMMMMMMMMM@W08S7i:,,...,.,...,
+....:.....,...,.. ...         .,:,:,,. ,  ,,,..  ,BMMMMMMMMMMWBZ2X;::...,...,.,.
+...... ... ... . . . . . . ..,,,,,.,,, , ..,,:..  aMMMMMMMMMM@B0aX;i,,...,.,.,.,
+.  .. . . ... . .     ..,.,,,.,,,.,.,. ...,..,,.. r@MMMMMMMMM@WBZS7i:.....,.,...
+.... . . ... .     ..,,,,,,,,,...,.,., ,.......,. .0MMMMMMMMMM@W8ZXri:.........,
+... . . . . . ..,.:,:,,,,.,.,.,,,.,.,..,..,.....:  XMMMMMMMMMMMMMW02X;i,,.,.,.,.

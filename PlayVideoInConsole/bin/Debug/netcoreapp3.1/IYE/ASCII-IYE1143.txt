@@ -1,0 +1,30 @@
+.......,.,.............,.,.,.. .,i,::ii;ii::ii,,.. ,.:i;i::i,::i::.:.,.........,
+......,..,,,,.,...,.,.,,:,:,,,:,::ii;;;r;i;:;::,:,,::i;iii;i;i:,i:,.,.....,...,.
+...... ........,.,.,,:,::::::::,,i:ii;;7;;::::::,:iii;i:::::::...,...,.... ....,
+......... ......,..,,,::,:iii:i:ii7rXX222XXXXX7rX77;r;i:::i,,.:,,...............
+...,.........,...,.:::,;:ir77XrXSSaaaZZ8ZZaaSSXS22XXX7r;::::,,,,...,.,.....,...,
+,.......,,,...,,:::.iriiSX7SSaZ22SaZZZ80BBB08Za2S7XS7;Xr:.:,,::.,.,.,.,.,.,,,,,,
+,:.,...:,::i,:::::i7:;X27S2aZZ0ZX2a080W@W@W@@WW02X77rXr;ii,:::.,.,.,.,,,.:,,,,,,
+,ii:i,:.. i;riii;i,iii222XSSa2S;SZZ880BBBBBBB0WW82X;;ii;;i,,,.,:i:,.,.,.,.,.,,,.
+,iii::,:...,iX77r7: .i;77Sr     :8aZZ8Z8Z88B0B8aXaSXri:: ,,::r:i::::,,,,,... . ,
+:::,..:ii::.:iX22SS7XXiirXX . ..i22SaaaZ088Z027XX22X7;Sr;;irXXi,:,i:i::,:., ..,:
+,iii::,:::,::;:rXXSaaa2SS2ZZr :Sr2aSSaS0822Z2X7X722S;r;;irXSXii;,:.::::::i:,.;ii
+irr;;;;i::.  ,. ..,,:,22X;7S7 r2i:ri7r;;r;;,:XSXX7Xi:,;;aZSr:.:,...::.ii::,. ii,
+;X77r7r7;;:, ,.      .irZ2XXriMMi ,:   ,   ;WX:,aMr,ir7aS:..   .,,:i:::iiiii i;r
+X2SSSXXXSSSXXr;;i:,,,.. ii;i; MBr;MMX2MM7B80M:0ZBMSZM@2r, ..,:i::.,:;i;;7r7X.;XX
+S8aaZZaZaa2SS2XX7X77rr;;,:ii..MZ..2MZWW72MMZ80MM2Z8WBWar7r:iir;;i;;7r7XXXXSa,rS2
+Z8ZZ888ZZZZaa2aaZ22SSXSXX7XX72M8; rMBM   XMMMMMMB8WSXXSXSX7i7XXXSS2S2S22a2aaii2S
+a0Z80B00888088Z8ZZZZZZaZaZaZSXSSZB@MMMaM.XMMMMMMMMWWB080ZZ28WZaZaZaaaZZ8Za2ZriaZ
+X2SSaaBWWBWBBBB0080808080BB8Ba0@0S8MWM07@@MMMMMMMMMMMBMMW0BMM8880880B0000800ai0Z
+28aZaaZBBB00800BW@W@W@WWBMM@MMMMW82MBMa   rWMMMMMMMMMMMMMMMMM@WWBWWW0ZS2Sa2887aX
+Z08Z888Z8Z8800B0WWWBWWWWB@M@W0MBWBS@M;.    2MMMMMMMMMMMMMMMMWWW00800Z2a22SSXSXXX
+ZW80000B0BBBBWBB0B000080Z8M@Z8WMMMa20      rMMMMMMMMMMMMMMM@BWBB0088Z8ZZZZaa22Sa
+0WB0BBBBBBB0B0B000088Z8ZZ8@MZ8WWB2;::,, .   2ZBMMMMMMMMMMMM@@W@WWBB0B008088ZZaaZ
+0MBBBBBB0B00000B80888888Z0WBB@WBSi..         iX0@MMMMMMMMMMM@M@MW@WWBWBB000888Z0
+0@BBB0B0B000000808888Z8Z08BB@W0Si.,  ., . .. .;20MMMMMMMMMMMMMMMM@@@@WWWWBB0B00B
+8@0B0B0000808088Z8Z8Z880BWWWB02;:::,.:. .. ,...;S8WMMMMMMMMMMMMMMMMM@@@@WWWWBB0W
+8WB808080808888Z8ZZZ80BBWWWB027:ii:.,., , .....:7S8WMMMMMMMMMMMMMMMMMMM@M@@WWWW@
+ZW808088808888Z8Z880BWBWWWB0aXii::...,. . .. ..,i7S8B@MMMMMMMMMMMMMMMMMM@M@@@@WM
+ZB88888Z888Z8ZZZ80BBWWWBWB0aXiii:,..,., ..,.....:i7S8B@@MMMMMMMMMMMMMMMMMMM@M@@M
+ZBZ8Z888Z8Z8Z8800BBWBWBW082X;i::,,.,.,.....,.....:;X2Z0W@MMMMMMMMMMMMMMMMMMMMM@M
+Z@B0B0B0B0BBWW@@MMM@M@@B0aX;ii:,,...,.,.,..,, . ..i;X28B@MMMMMMMMMMMMMMMMMMMMMMM

@@ -1,0 +1,30 @@
+.. .::: .7X:i,,:,::: rM8 ;MMMM8M...,............ 0BW; ,. SW. ...,,           . .
+.,,i;;i,XX:X;:iiii;:7MMaSMMMMMM7 .:,,,:,,,:.::,. ,M@Mi.iX;;a;,,,:i:   ....... ..
+.,.:ii ;X.:i,:,:::.:Ma aBMMMWWX  ,,,.,.,.,.,.,..  ,@2X .aZ.:;,.,,,:i     . .   .
+., .:.i2i;r:i:i::.,W@,X@MMMM0B  ....,...,.....,..  82:S8 S; .,:....,;   . . .  .
+..ii.iS;,r:i:i:,,2MM27XMMMMMW2           . ...     XWrBMMMX  :,:;::.,i   .     .
+ ;r ,r,ii:i;ri;XMMMM@00BMMMMMBX77;;iii;ii:i...::;; ;MMMMMMM8Si:,XZBX.:;   .    .
+:S,,;.i7i;i7XXXWMMMMMMMMMM@ZBMWMMMMMM@Barri:;88MMM: ..XWWZ088ZS2Z0ZZ;,i,   .   .
+Xi,;;i7rri;;;;;,:iX0W0W0iiBMMMa7XS8WB00ZW8X7S7ii: ..        :;S7220BWW8X,   .  .
+.;::iXrr;;;;i;ii:iii.    ;2MMBZ  ... .,:,..    .  XB..   .   :rri:i7rXXXi, .   .
+rr:.7rr;r;7rr;rr7Xr.. . ,  X8XWS  . . .       .  ;W@2   ..... .:;ii:,,,,r:.     
+7i.i77;rrX7X7XX27:...,,:.  r,XBWZ.       S@@Z,  XWZMM@8, ..... .,r;;;;iii7:.   .
+ :.rXr77XXXXXXS;..,,ii;:.:a77rZWBBSSB0r aMM rM70MMMMMMMW ....... .i;7rr;;r7,..  
+.i:SXX7XXXX7XSi .,,i:;i,,XMMMMMMM@MMMMMZ@MW;aMWMMM@M72MW :,. ..... ,ir77rrrr.:,.
+:,iSXXXX2Xri;,..,,,.,,,:ZMMWWSMM@MMMMBMMWMMMMMMMMS   MMS........:.. ,i;XX77ri ,.
+.:iXaS2ZX7i:,,.:,:,,,,.:W8ZMM  MMMMM8MMMMMMMMMWMMa  8M; i: ... .,... ,i;72SX7. ,
+,:;S88a77:,,:,,,:::,,,,:r rMM  MM@MMS8MWWMMS2M7;MB ZM@. .:; ....,:... .:;7XS7i..
+.,,X0a;Si..,,,,:,:::,:,,.. ZM.:MB:MMMMMM0MMWZ@; MMiM0@MM0 i: .,..:,..,..ir;r;r,:
+., irXai..,.,,:::,:.:,:::r.0M MM; XMMMMMBMMMM,  ,r.  0M0; ,:. i,.,,...:..:77r;:,
+i::; 7: .,,,,,::,:,ii:,;:rZMM@M;.i,XWMMX ZMMMM8Xi  .SMM: ..:,,.i,:,....:,,:i.i:.
+i:;7 : .,,,.,,:.,,i:i,,;: .::;:.i;78MMM    80WMMMMMMMM7 ,,,,;,.::,:.....,.,,,:r.
+.:iS iX..,.,.,.,.,,,,.,2: .. riirr7ZMZ,  . rBS7:72XXi, ..i;.::..,,:,...,.. .::r;
+,7r;  Sr. ,,. ,..   . ,ZX:i:i;ri7r2B8 r.:.0.MBarXi: ,,,.,,i...,.,.,....,, . .:i;
+,7r7  ,7;;,. ...,;;:.. SZai,XSXraSaM272 . W@MMZSX;;i:;,ii:.,.. ... ..,.... :7;:;
+;;;S7 :;i,;S8X7rXa2aXriirr:;Z8ZXa7X0:;X   aWS27rrrSaaS;,i,,.,:i,i:,..,..:ii.i:;;
+88780X;r2XiXS7rr77;X;;i;:;,,;7i:ii;7;Z7.r 7Z7rii;::;ii,,:,.,.iXr7SSr:::Si,.  i;r
+rrX7;r7;r:,   . ..,...;S;iii;rii;iX7;07.Z ra7.irri:ii,..:,::,     ......,.:.,:iX
+i7:,,r;i..,:::.,..::.:2X,i;;;X;7i,7 78.:Z ;S;;;;;;:ir; .i. .,,,,,:...,,,,:.,:;ir
+Z0i::::,.,rii::i:..,iiX...,i:  ,i:7.S@,iZ  .7:ii:, , .,.,.:.   .,,:;,,:.,.:,..:i
+Z7 i,......  .::,:.:,..::iir,  ,:ii7ra.i7 iSX. ,:, :,ii  ...   .  ir,:,... .    
+:.  .,,.,,:,:,i;i,:..:ii;i;iii,:,:XXXXri:,2S7i,:i :::,i,:.,.,,,..:i.ii..,r,.:,,r

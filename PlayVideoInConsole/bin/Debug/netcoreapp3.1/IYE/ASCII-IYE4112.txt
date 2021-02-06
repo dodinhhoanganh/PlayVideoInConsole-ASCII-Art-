@@ -1,0 +1,30 @@
+........,,,:.....,.......,...,.,,i:;i;rXr;;;iii:::,,,:i;ii;iii:iii,:.,...,.....,
+........,.,,,.,.,,:,,,,,,,,.,::,ii;;rrXXXXXrr;;i;i;ii;;i;;;;ri,:i,,.,.....,.,..,
+ .........,,.,,,.,,,,,:,,,,:,,:::;i;r77SSSXXXXrr;r;;i;iii;i::ii:.,.............:
+..,.... ..,,,,,.,.,,:,i,,,iii:ii;;7XXSS2ZZ8aZaZZaSX7X7r:i;i,::i,:,,.......,...,:
+.,.... ..,...:,:,::::;:i;rrrr7rr777XSa2Z0WWB00808Za2SSSXii:i::::,,,,.,....,:,:,i
+..,...,:::,,::i;iiii;;r;X7rirr7r77XaB00BWW@WWB088ZZaa2aSriii;::,,.,.:::,,,,::,::
+:i,,.:,,.:i::ii;rX;irri27... . i7ZZ0BBB@@@WWB008Z82a28BZSX;i:i,:,:.,,:,:,:,... .
+i;ii:,,...i:i:ii7X7..irXS     .ir7XX2aZZZ88ZZZZXX2Z2X7X;i::i;i7XXr;i:,,::,:.... 
+:i:,:ii:,,.,:ii;r7rXX:.irr;. X7;777XXX7SS222XX7XX22Za2rii;7SXX;rrXXrii::::,,,, :
+:ii:.,::i:::i:ii7SS2027;7XX..XX;XSSXXXXXSXS7X772aS2ZaS2S2a0Xrri:;;;7rii:iii:::.:
+ir;;i;iii,.,:: ,:rrX;Sa2S2a,.:;;;SX2aSX22a2XXX2SXX2aX7XX2ZaX.ii::,,;;i:ii:.,:i.:
+;;;i;;;ii:. ,.  . .. iXXXXa.iiS2iiii7i,:r;:,r7r;;ir;;i72S;i. ,,.::;i::i::,::ii,.
+:;i;iiir;;:::,,, . . , ,i;7 i7MMr:.:   .   .MX  :M2i;X7r   ,.:,,,::;i::iiii;ir:.
+r7rr7;;;ri;i;:,...,.. . .ir iiMM,.8MXXBMXZB0MXXWBM0SMMr .::,:ii:..:iii;;rr7r77r 
+i7rXXX7X77;iii::::,,.,.. ., .iMM   MM;MB;MMa:8WM8:WZBZZ;;r, ,ii;;r;r;7777XXrrXr.
+S22aa2X7XXX7r;;;;;;iii;::ii ,XMB:. MM,MW r0..X7Br,S:.:;i;r7:X777X777XXXXSXXr7XS.
+Xa7r772Z22S22SXXr;;;;;i;;ri ::  ;8ZMMrMB;M;:MMX.;r;r::;rr7XiXXXXXXX2aaa2XXXSSSr,
+.,....,:X88Z8ZSX2X7;r;r;i:, ,ii,;; MM MMSSMZMBarXr;7riSXSS2iXSaaaZZZ2SZZZZ8X:,..
+.,.,.,.,.77iii,:iSX2a2XXX@W ZMMXi: MM MMi ;2ZZX7rr;2SXZZaZZrXaXaZZ;i,:ii;SX,...,
+....,.:,:.....,.. XMM:,rMMMSMMM8ZX:@M :M.  a277XZ8ZBBS0XX7rii:,,::,.,,,.. ..,,,,
+ ....,,..,......  XM@  ;MXi SZX227,XM7     ri:irXSXaX:::,,,,.:,. ..,...... ....,
+..,.,..    ,,.,..  MM;  i:     .... ..  ..:;i::,,.. . . ....,.,...,.,,,.,.,,,,,.
+,:,:.:,,.,.:::::,  XMM      .,..       . .::::.,.......... .....................
+,.,.,:,,:,,,,,,:..S MM    . .   . ..,:....:,,.,,,...........,,,.,.,.,...,.,.,..,
+.,..,: ,...: ..: S :M0   .    .,,,,:,: ,. .:,....,,:,,.,.........,.,.,.,.,.,.,.,
+,,,.,...,......  M8MX     ...,,.,.,,,. .. ,.:,,...,.,,,,:,,...............,.,.,,
+.,.,.,.... ...   .,    . .,,,,,,.,.,., . ,...,,,.........,,:,,,,.,.............,
+......... . . .     . ..,,,.,.,.,.,.,.. ,., ..,,,,. . ..,...,,,,:,:.,.,.,.,.....
+ . . . . . . . .   ....,.,...,.,.,.,.:.,..,. ..:.,...... ..,.,.,.,,,,:,,.,.,.,..
+..... ..........,,,,,,:,,.,,:.,.:.,,,..,..,...,,,,,,,.........,.,.,.,,:::,:,,.,,

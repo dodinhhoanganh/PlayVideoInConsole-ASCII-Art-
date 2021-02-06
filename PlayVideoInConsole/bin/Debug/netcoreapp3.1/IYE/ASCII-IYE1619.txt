@@ -1,0 +1,30 @@
+.,.......,.,.,.,.:,..:,:,,,,,:,::i:iii;riii;;:,:....,:i;i:i:,::i:,...........,.,
+..,.,.,.,,,,,,:,:ii .:i:i:::iiii;;;;;;77r;;i;::,:,:,:i;iii;ii:,,:,,...,.,.....,,
+.,.,.......,.,,:,:, ,::;ii,:iiiii;iii;7X77;;ii::,iiiii:::i:::,...,.............:
+..,.,.....,...,:::, i::iiii:;i;rr7SXSSZZaS2SSXX7X77rr;r::i:.,,,.,.............,,
+.,.,.....,.,.,..:;. i;ii;rr;7SS2222a2aZZa8ZZaXX2SXX777;i::,:,,.,.....,...,,:,:.i
+,,,...,,::,.,,:::;. rrr;XSSX7aZ22SZaaa80WW@BBZZ2XrX77rr;:.::,,,...,.,,:.,,,,::,:
+,:,,.,:,.:i::::i:;  22X7XZZ2XSXX2ZZ88W@M@M@@WWWWZ2rSX77Xr;:,.,...,.,,,,,,:,,,,,:
+i;;;:,:..,iii:i:r;  22aSXX8a2XZX22aZ80BBBBWBB0BW@aaSi:;;r;:,,.,::::::,,,:,:,::: 
+:i::ii:i::.,i;ii7;  7SX2S7X2aSa0a2XaaZZZZ888Z0BB822X7Xr:.,:i;r;;iiii:iii::,:::,:
+iii,.,iiiiii;i7rri .Xr:r2X7XSS788aSXSSSSaaZa8B0S8a7raZZrr7;iaaXrr;iii:i:i,::::::
+i;;;iiiiii,i77:rXi :r77XrX;ii:;72ZX7X222222SXaX7X7rSZSS8ariXaZSXi:,i::,:::,,:i::
+;r;i;;;ii:. :;,,;: ,ir2SSS277i;i;r;X2ii;7:,.rSiirrSaSXZ87irrir;,,.::,,:,:,,,i:::
+:ri;;;;r;;:,,:,,,, :ir;X2SX2X7SM. :MZ   XM ;ZMrir28aXSXi ..,..   ..:,::i:i:ii;;;
+;rrr7;;;r;;;;:::.  ,:..,:i;iriZM; @MBM; BM.iMM0M:;S77;,. .,:ii:.  ,i;;;;r;rr777r
+rXrXXXXX7riiii:::. ,,... ,,,:;XMS:MM8WS XM::MMrWi .i:i;7XX7r;i:;.;rrr7777XX77XrS
+X22SSXX7XXX7r;;;r  ii:i,.,::ii;Z07S@..;, 2B7ZB iri;ii;rrXXr;r;7S:rX7XXXXSSSr7rrX
+,XXaZZZaS2Sa2X7X7  7;;;rr7;;;;i: :r  72X  77ii;7XXXSXX:.irr77XXS:rXSSaaaSXXXXXX2
+...:ZBB8ZZZS2Za2S .X7r7;r;;i;ii;.:X:.,i    :X287XXri77X;2SSSSX2ZrrZZ8ZZSS2aa8880
+.:,,,X;;:i:,.ir0a ,aa2SSXXXX77r7,ii2MZ  a.  XMMW:rr;S227aZZZaZZ8;780a;:,,i:ira87
+,....   ..,,,..ii .:;77r2SS2aaZZ;7XMMM  Ma  XMM8iX2XBBB72aSrXXr:,.ii:.,,:.,,. . 
+.,.........,.,... .,...,.::;;a0W7XXMMM  aW  ZMM72MMXZX;:,:,,.,.,,.,..,.,...:...,
+.,,,,,,.......... ....,.,.,.,.,:.  MMB  iS  BMMr@MMa  ..,...,.... ,.,.,.,.,...,.
+,:,,,::,,::,,:,:..:,:,,:....       MMZ  :r  ZMMM8 MM   ......,.... . . ...., ...
+:::,:,:,::,,:,:..,:.:.,..   .      MM8  BX  SMMM; aMa.  ..,.,.,.,.,,,.,.,.,...,.
+.i:,,,,,,i.,.,,,.... .   . ....,.. 8MM,8M,  :MMM   @MM; .,...,.,.,.,.,,,.,.,.,,:
+.:,.:,:,,:  . ,..   . . .   ..,,,. .MMMMi    WMM    2B; :,,.,...........,.,.,.,,
+...,.. .,. . . . . . .   ..,,,,,.,.  i:  . . .MM.      ..,,:,:,,...............,
+..........:i. . . . ....,,,,,.,,,,,.    ...,.  ,,.,..  .,.,.,.:,,,,,,.,.,.,.....
+ ..,.......:...... ..,.,.,.,...,.,.,.,..., ,.   .,,,.......,.,...,,,,,,,,....,.,
+....,.,.,..,:.,.,.,,:,,.:,,,,,,,,,,,,,,..,..,...,,,,,,,.,.....,,,,,,,.,,:::::,,,

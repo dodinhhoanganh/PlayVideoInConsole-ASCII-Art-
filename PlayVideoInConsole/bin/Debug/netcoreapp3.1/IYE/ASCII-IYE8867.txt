@@ -1,0 +1,30 @@
+.. ......,., ..... ,.........,,,::iiir77;;i:ii,,... ..:;ii::,:,::..,.,.,.,.... ,
+.,....,.,.,,,.,., .,,.:,:,,.:::,iii;rrSX7r;;;i:,,.,,:i;;;;;iii;ii,:,:,,.,.,.,.,,
+...............,. .,.:,,,,,,:::,:i:i;;XXrri:::,,::,:i;iiiii;:,.:,,..., . ......,
+......... ,...,,. .,,.i:,.::::i:i;;;XXa22Xr;riiii;ii;iiiii::i:,.,.,.......... .:
+.,.............,. .i,,:iiiirXX7X7SXSaZZZaZSSXX7X7r;r;;iii;,,,::,.,.,...,.......:
+... ....,,..,.,:. :ii:iX2XX7XXSXXXXSZaZZ0B0Za22XXXXX77r:::::,,,,:,,.,.,...,.,.:,
+.,...,,,,:,::::i  irr7rXZZ7,7ZSSXXXS8WWMMMMMWW0B8a22aZX;:i::,,,:...,,:.,.,,,::,i
+iii,,,, .:i::::i  rr72XrS82r72aaaSZZB@M@M@MWWWWW@00Z8882Xi:::::.,,,,:.,,,,,,:,,,
+:;:i::., ,,iii;;  ,.iXXX7Za277S22ZaZZ8Z88B800B00aZZZSXri:::i:i;XXr:,...:::,::: .
+::,.::i::,.,:;7i .rr7,irXra2SX2SXX2XS2aS2222222Sa22Z2Xi.,,X2SXS7rr;i:::::::,:.,,
+i;i:,::i,::i:ir: :SSXXXXrrrS;7Xaa2a2X222X20BZ2XXr7XS8X,riXX7Z02ri;;rii:i::::,:,i
+;;;;rii::...i ,  .7ii222S7;::72X7XXa0@0rZMM8WWXrXX0MMMW:7XX2Z27ii,i;i::::,,,:,,:
+;ri;;r;ii: .,.   ....r7S7XXBMMMMX SMM@Wa8M0 X@iWMWMM:MM,i2Si ,...i;:.,,,.,,:::,i
+rrr;;irrr;;iiii  .:.. .:.;MBZ,.MMrMMS 8M.@Ma@0BMMZS,XM8 i;,       ::::ii;i;;rr;;
+rXXXXX7Xrr;ri::  ,,,....iB;SMW 2MMMM  MM @M7W@:@M. ;MM .,.,iir;. :;rr7r77XXXXX7X
+rXSSSXXXS7r;r;;  i:,:,:...  MM.2MBMMi,MaXMZ rM 0M .MM, ir;rrr;7iiXXXXXXXSSX7X7Xa
+S8ZZZZ22aa2S7Xr  Xr;;r;;;ri,MM MM:iWB0M2 MMX0B,2MX0M@MMa:rr7r7SX:2XXSa2aa2XXXXS0
+Z08B00Baa208Za7 :SXrrr777r22M88M7r: ;BMWZMMWS:i;Z7i ZMM2;7XXS2aX:aZZZZ0ZZZZZ8880
+28X;,::,.,;XW@7 ;8a2SSXX7rrZBB0. 7r;aWM: :8MMMBZ7;.XMM;raZZZaZ88:BWW808S;iiXX72B
+ ...,...,.. 7X: ,;S8aXZ8Za2Xrr7.;S;SMM0    aBMMMMMMMM@72BB0Z8BWa.;SXZZ: ... . .:
+ ........... .  ...:,,:7;XX20WM7aW2Sri     0SrXZ0MZWB8rXXSri:;i, .. .:.........,
+ .. ... ,.,...  ... ,.. ..,.;7ai77;;.   .  i,:;7X27Xr,....... .. ..............,
+.,......,,.:,, ..,...... . .     .....   ..i:i:,     . . ..,. ....,,...,.,,,,,,:
+:,,,..,.,., ,........ .       .     ,. . .:.,,,.. . ..... .., . ..... ........,.
+ ... .....     . .           .   ..,:, , .,,...:,:.,.....,...,.,.,.,...,..., ...
+  . . .  ..         . . . . ....,,,.:  ,  .,,...,,,.,.............,.,.,.,.,.,...
+      .. .       . ....,.. .,,,,.,.,.. . ..,,,.. ..,.,,:,:.......... ....,.,.,.,
+    .           . . .   ,.,.,.,...,.,... .. ..,.... ..,.,,,,,,,................,
+ .   .   .   .     ..,.,.,.,.,.,.,.... , ,.  ..,.,.. . ....,.,,,,,...,...... ...
+ .. ... . ......,,,,,,,,,,,.:.,,,,,.,..,..:....,:,,.... ..,.,.,.,,:,:,:,,,,.,.,,

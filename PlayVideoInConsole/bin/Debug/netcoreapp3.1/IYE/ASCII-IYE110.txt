@@ -1,0 +1,30 @@
+.........,.,...,.,.,,,..,,,:::i:ii:i:i;;iii:,i,:,... ..iii::,:.:,....,.........,
+..,.,.,.,,:,,.,,:::,:,,,i:i:iiii;;;;;;rr;;;i;::,,...,:;ii:i:i:iii,,...,.,.,....,
+...........,..,,,:,:,i:,:ii:i;ii;;iii;;r;;::,,,:.,,:,;i::iii:,.,,....... ......,
+..........,,,,.,,.::i:;,::;;ii;;r;rr7XSXXX;ii:i:,:i:ii::i::,:,,.............. ,,
+.,...........:,,.,.:::ir:irX;7S2222aaZZZZZaSSSXXXX7r;;:::i,,.:,,...,........ ,.:
+.,, ....::,.,,ii,,:,;77XX:rSZZZZ8ZaaZZ880BBZZaa2SXSXXX7;:::,,.,.,.........,,,.::
+.,,...,,.:::::,;;:i;iSXraSiS002a882ZZBB@W@W08ZSXrXXX7XXr,::i:,.,...,,:,..,,,,:,i
+i;i:,,, .,i:i:i:rSri;iXXr227aZZa8080BBWW@WWB@WZ2X;XX7XX77i:,,,:...,,:,,,,,,,,,,,
+:;:i::,,...,:;r;;7;,ir;ii7SS288228Z88B08808BBBaSX;,;ii:,,:,:,,:r;i::.,,::::,:: .
+:i,.,:i:i:,,::r;r777X;ii;;;..   ;a2X2SSXZ2SS27i:r::iXr, ,.iXri77;;rii,:,,,.,,,..
+i;ii:::i::,;;;ii;7XZ2SS2XXX.    :Sr7XXXrrr77ii,rri;77;iii::rX7;;rr;;:: . . ,,:,i
+;;;i;;;:i,..;:.,:,:i:7S22Saa7 7ZX7S77rrii:i;i,:r;,:r;::;;:i77Xr:;,:ii::: .,,i:::
+iriii;i;i:..,,.,... .;;7XXX2X BM7 .r.  ::  .@a:;.0a  :.:,:i,.;,..,::,::; ,:iii,i
+;rr;;i;;r;;ii,:...,.,,.:;r7XX 8M; ;MaiZMZX@8M0i@8M@ MM;  .. ,...,,i::,ir,.r;;;r;
+rX7SXX777;i;;:,:...,.....;r7r MMi.:M@a@Z;MMM BZMM ZZMaZ, ,,iii:, ,:i;rrXi,SXXX77
+7XXS2XXXXX7;;;;i;::,:,,   .,, MM:  MMMa   8i iiZ: WMMM2i:::iii;i;rrr77XXr 2XSXS2
+a8aaZZa2SSSS77r7;rr;i;;;ii,i  , .2XMMMZ8M:WMi.. .WMMMMXi;.irrr7X7XXXXSSaX SXSSX8
+;7;:i:XSZZZZZ22XX77rrrrrr;S;:ii8Zi MMMMiB@M0Xr7;0MMMMS:rXiXSSSSS22aZZZ8Z2 SZaS2a
+ . .....;08ZZ2rS2a2aSSXX;2MSMMMM@; WM@M   ;2XSXaMMMMBr7Sa7SZ2ZZ8Z00B80008.7Xi,.,
+....,.,,.:i.,.,,iSaX7SZa2XMMZ7ZZXr.aM:;   .Z0ZXWMMMMZa88BS200Z880X;,:;rX0i......
+.,.....:.. ..,.,.,...,iii;aMi7B08Zr8;      Bar7MMMMMSBZ2a;;Si,:;r.         ,.,,.
+... ....,....   . .....  .7M7.SSX;i7    .  i, XMMMM0,i,., .....;8MMWa;,     ....
+.,.,.:.,,,.:.. .,,.,.,.,..X2     ,.,     .... XMMMMi   .......   XWMMMMMZr.     
+:,:,:,..,,:::,,,,,:,:,:,,.          ..    , . SMMMM,  . ... . .:.   ;8MMMMM@Z7: 
+.:,,,:,,..,:.,,:..,..... .       ,.,:: , .,.  rMMMM,   ....,...XBWa;   ,XBMMMMW8
+....:.....,...,.... . .       ..:,:,,. ,  ,., ,MMMM: .:......  ;WMMMM0r    :XZB@
+.. ... . ....... .     . ...,:,:,,.,,, , ..,.  WMMMr :Xr,..... .2MMMMMMWS,     :
+.   . . . ... .       ..,,,.,.,.,.,.,. ...,... 7MMMX ia2;.,,,,. :8MMMMMMMBS.    
+.... . . ... .     ..,,,.,,,.,.,.,.,., ,......  MMMB X0Zr. ..:,. ;0MMMMMMMWZr.  
+...   .     . ..,,:,,,,.,.,.,.,,,.,,,..,..,...  rMMMW@M@S. ...,.  :8MMMMMMMM@Zr.

@@ -1,0 +1,30 @@
+.. . ,...,.,.....,,:,,,.,:,,,:.iii:iii;;ii:;i:,,.. .,:ii::i:,::::,,............,
+... ..,.:.:,,.,.,,,:i,i:::i:iiii;;;;r;7rr;iii::,,,:,ii;iii;ii,,::.........,.,.,,
+.. ..,.......,,,,,,::i:i,:iiiiii;;i;;rXX7r::,:,:,i:iii,::i::,,.................:
+. . ......,.,.,,,.,,:iiii:i;;i;;77XXS2Z2aSX7Xr77X7r;;ii:::,.,,,...............,,
+ . .......,,,,.,,:,:,ir;;;rSSXXSSaaZZ88888a2SSS2SXXS77;:,:,:.,.,.,...... .,,..,:
+. . ...,:,,,i:::::iiiirSX27SZaa2S2aZ80BBWB0Za22XX7Xr7X7i,,,:,.,,,...,,,...,,:,,:
+ . ..,,,.::iir;;;;;;ii;aaZXXZZa2XaZ80WW@W@@@WW0aX7rr;r;;i:::,,,,.,.,,:.,.,.,.,.:
+.  .:,. .:ii;;XXX;::7X;rSSZS2222ZZ0800BBBBB00BW8a;i:i;i::,,.::i,:,,.....,,,,::. 
+ . ,i:::...,:;722X:i;77i;rX27SSS2ZZZZZZ88B88Zaaa2;;;ii:.,::iiii;;i::,:,:,:,:,,.,
+.  .,:i:i,,::irrXSXSS;rXX;;rXX222aaZ8aZZZZXXSraS;;;rXr7X7i;;;.,,i;iii::::,::,,,:
+ . iii:i::,ii:,iirX277rXX7i:,,i,.72Za22ZSS7X7S2Si;r7rXXXr77;,i:::,.:,,,:::.,,:,i
+.  ir;iii...i. .,.i;;a27XXXr:  :. r;r:i;X7r;7r;:::i:;;7;X;:..,, ...   .,:.,:i:,:
+   r;;;;ii..,,.,.,. .iiSX7S2S;0MZ  ;,  ,i. :@Z ..BBX7X;i   . . ,,i:.,ii;ii:ii;;i
+. ,Xri;;r;r;i,i...,,.  ,;;rrX70Ma:iM8;8M0XMZMBiM0MMrMMS   .,:,,...;:i77rrrrrrrr;
+  iaXX777;i;;:,,,..,.,...iiiiiWM,. MM2Wai@MM B8MM 82@a8ri;;;ii::,;X;,Xr77X77777S
+. XaSX77XX7;;;;;;ii,::i,.,::i;MM;  @MMB   07 ;:2MW2,  ,.,:;i;;rr77X;,SXXSXX;7;r2
+  raZZ2SXSS2XX77;rr;i;;;;r:i::  ,Z2MMM0BM @M7, aMMX:;;;i.7r77X7XXXXX.Z2SXXX7XSS2
+  .,i;88088Z822SX77rrrr;;iXiiX.a0i.BMMMi8W@0X,SMMW,.i;r7;S2SXS2222Z8,28ZZaZZ87:,
+ .,,..iaSXr7iirXZaa222XSrSM2@MMMM; ZM@M  . ,X7MMM;;iXB02;Zaa2Za880ZS.,i7;X2B7,.,
+ .:,,.... ..,...7;;:;XSXSXMMB8722X;7Mii     S8MMBrZXZMM8;aXXSi,.,i,   ... ......
+ ....... ....,., ..,.,.,..7MXZiX8ZX7a    .  ,@MMSSB7MMi,.,..                 ..,
+.     .   ....,...........rMS .:i:,.. .   .  MMB  : MM.   .  r8MMMMM@82i.       
+ .,... ..:,:,,,,,:,,,,,,..X2......   ..      MMr X  MM  .  :MMMMMMMMMMMMMM@ai   
+.,:...,..:,,,,:,:::.,.,.,           ,,, , .  0MBM;  XM2W0  rMMMMMMMMMMMMMMMMMMMS
+ ,,......,...:,..... . .       ..,,:,:. , .,  @M8    8MMi   XMMMMM8,       .r0MM
+.,, ... ,...... . .     . . ..,,,,:.,,. , ..,     ..  :: ..   0MMMM2Xr;:,      .
+.:...... . . . .        ...,.,,,.,.,.,. . .....  . .     ,,,.  .2MMMMMMMMMMMMMB0
+..... .     .         ..,.,,:.,.,.,.,.... ,.....,.... ....,.,..   ;ZMMMMMMMMMMMM
+ . .   . . .   . . ..,.,.,.,.,.,.,...,....,.....,:,... . .......     ,7ZBMMMMMMM
+... . ... . . ..,,,,,.,,,.,.:.,.,.,.,..., .,. ..:,,.,.........,.,..        .i720
